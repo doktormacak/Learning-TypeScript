@@ -7,7 +7,6 @@ interface House {
 
 interface HouseWithID extends House {
   id : number;
-
 }
 
 function findHouses(
